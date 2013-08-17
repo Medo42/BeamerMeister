@@ -52,7 +52,6 @@
             this.buttonHDMI1.TabIndex = 2;
             this.buttonHDMI1.Text = "HDMI1";
             this.buttonHDMI1.UseVisualStyleBackColor = true;
-            this.buttonHDMI1.Click += new System.EventHandler(this.buttonHDMI1_Click);
             // 
             // buttonHDMI2
             // 
